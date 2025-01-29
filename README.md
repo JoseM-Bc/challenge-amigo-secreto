@@ -1,2 +1,2 @@
-<>Challenge amigo secreto</h1>
+<h1>Challenge amigo secreto</h1>
 - Estado del proyecto: En desarrollo
